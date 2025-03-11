@@ -1,0 +1,27 @@
+[
+    {
+      "store_id": "S00339218",
+      "store_name": "Mall of Fun",
+      "area_code": "A001"
+    },
+    {
+      "store_id": "S01408764",
+      "store_name": "Downtown Market",
+      "area_code": "A002"
+    },
+    {
+      "store_id": "S02587431",
+      "store_name": "Coastal Shop",
+      "area_code": "A003"
+    },
+    {
+      "store_id": "S03692158",
+      "store_name": "Highland Retail",
+      "area_code": "A004"
+    },
+    {
+      "store_id": "S04753962",
+      "store_name": "Central Market",
+      "area_code": "A005"
+    }
+  ]
