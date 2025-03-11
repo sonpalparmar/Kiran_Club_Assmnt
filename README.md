@@ -37,7 +37,7 @@ Key features:
 
 ```bash
 go mod download
-go run ./cmd/server/main.go
+go run ./cmd/main.go
 ```
 
 #### Using Docker
